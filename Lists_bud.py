@@ -49,6 +49,7 @@ x = greet
 print(type(x))
 print(x)
 
+
 #we can create a list by adding in the elements in it using append function
 bag = list()
 bag.append('Books')
